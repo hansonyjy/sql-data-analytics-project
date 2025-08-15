@@ -1,5 +1,6 @@
 # SQL Data Analytics Project
-This repository features SQL scripts that showcase a range of analytical techniques, including time-based trend analysis, cumulative calculations, performance measurement, customer segmentation, and part-to-whole analysis.
+This project showcases advanced SQL techniques to analyze business data for actionable insights.
+It covers trend analysis, cumulative metrics, performance measurement, customer segmentation, and part-to-whole analysis, simulating real-world analytics scenarios for business decision-making.
 
 ## About Me
 
