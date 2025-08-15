@@ -30,13 +30,13 @@ It covers trend analysis, cumulative metrics, performance measurement, customer 
 | `13_report_products.sql`           | Generate detailed product performance reports.                   |
 
 ## Key Insights
-From running the scripts, the following sample insights were identified:
+From running the scripts, the following insights were identified:
 
-- Top 5 product subcategories contribute 42% of total revenue.
+- Top 5 product subcategories generate ~98% of total revenue, indicating a highly concentrated product portfolio.
+- 17% of customers account for 60% of profit, suggesting a small high-value segment that could be prioritized for retention and upselling.
+- Most profitable product: Mountain-200 Black- 46 (~$412K profit), showing the importance of the cycling category in driving margins.
+- Average order value (AOV): ~$1,061, signalling a high-ticket sales model.
 
-- Year-over-year sales grew 20%, driven mainly by Electronics and Office Supplies.
-
-- 15% of customers account for 60% of profit, highlighting a high-value customer segment.
 ## About Me
 
 Hi! I’m **Hanson Yang**, an MSBA student at UCLA Anderson, passionate about leveraging data to solve business problems.  
