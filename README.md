@@ -16,6 +16,8 @@ It covers trend analysis, cumulative metrics, performance measurement, customer 
 | `01_database_exploration.sql`      | Explore database structure, tables, and metadata.                |
 | `02_dimensions_exploration.sql`    | Explore dimension tables to understand category hierarchies, keys, and relationships.                |
 | `03_date_range_exploration.sql`    | Filter and analyze data over specific date ranges.               |
+| `04_measures_exploration.sql`      | Inspect key performance measures to validate data types, aggregation logic, and completeness.                |
+| `05_magnitude_analysis.sql`          | Compare the scale of different metrics to identify high-impact measures.      |
 | `06_ranking_analysis.sql`          | Rank products/customers by sales, profit, or quantity sold.      |
 | `07_change_over_time_analysis.sql` | Compare sales and profit changes across periods.                 |
 | `08_cumulative_analysis.sql`       | Calculate cumulative sales and customer growth.                  |
