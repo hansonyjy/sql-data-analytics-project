@@ -11,6 +11,8 @@ It covers trend analysis, cumulative metrics, performance measurement, customer 
 
 **Business Context:** Designed to replicate the analytics needs of retail/CRM datasets, supporting decisions in marketing, operations, and product management.
 
+## Scripts & Analysis
+
 | Script                             | Description                                                      |
 | ---------------------------------- | ---------------------------------------------------------------- |
 | `01_database_exploration.sql`      | Explore database structure, tables, and metadata.                |
@@ -27,7 +29,14 @@ It covers trend analysis, cumulative metrics, performance measurement, customer 
 | `12_report_customers.sql`          | Generate detailed customer reports.                              |
 | `13_report_products.sql`           | Generate detailed product performance reports.                   |
 
+## Key Insights
+From running the scripts, the following sample insights were identified:
 
+- Top 5 product subcategories contribute 42% of total revenue.
+
+- Year-over-year sales grew 20%, driven mainly by Electronics and Office Supplies.
+
+- 15% of customers account for 60% of profit, highlighting a high-value customer segment.
 ## About Me
 
 Hi! I’m **Hanson Yang**, an MSBA student at UCLA Anderson, passionate about leveraging data to solve business problems.  
