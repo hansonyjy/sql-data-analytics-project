@@ -1,4 +1,4 @@
-# SQL Data Analytics Project
+# SQL Sales Analysis & Customer Insights Project
 This project showcases advanced SQL techniques to analyze business data for actionable insights.
 It covers trend analysis, cumulative metrics, performance measurement, customer segmentation, and part-to-whole analysis, simulating real-world analytics scenarios for business decision-making.
 
